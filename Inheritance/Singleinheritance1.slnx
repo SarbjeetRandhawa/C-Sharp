@@ -1,0 +1,13 @@
+<Solution>
+  <Project Path="1Inheritance_Example1/1Inheritance_Example1.csproj" />
+  <Project Path="4hierarchical/4hierarchical.csproj" />
+  <Project Path="5multiple/5multiple.csproj" />
+  <Project Path="6Multiple2/6Multiple2.csproj" />
+  <Project Path="7hybrid/7hybrid.csproj" />
+  <Project Path="demo/demo.csproj" />
+  <Project Path="inheritanceExample2/1inheritanceExample2.csproj" />
+  <Project Path="Multilevel/3Multilevel.csproj" />
+  <Project Path="practice/practice.csproj" />
+  <Project Path="Singleinheritance1/1Singleinheritance1.csproj" />
+  <Project Path="Singleinheritance2/2Singleinheritance2.csproj" />
+</Solution>
