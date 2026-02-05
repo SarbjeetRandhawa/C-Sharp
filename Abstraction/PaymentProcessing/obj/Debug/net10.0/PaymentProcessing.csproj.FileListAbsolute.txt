@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\bin\Debug\net10.0\PaymentProcessing.exe
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\bin\Debug\net10.0\PaymentProcessing.deps.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\bin\Debug\net10.0\PaymentProcessing.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\bin\Debug\net10.0\PaymentProcessing.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\bin\Debug\net10.0\PaymentProcessing.pdb
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\obj\Debug\net10.0\PaymentProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\obj\Debug\net10.0\PaymentProcessing.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\obj\Debug\net10.0\PaymentProcessing.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\obj\Debug\net10.0\PaymentProcessing.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\obj\Debug\net10.0\PaymentProcessing.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\obj\Debug\net10.0\PaymentProcessing.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\obj\Debug\net10.0\refint\PaymentProcessing.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\obj\Debug\net10.0\PaymentProcessing.pdb
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\obj\Debug\net10.0\PaymentProcessing.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\PaymentProcessing\obj\Debug\net10.0\ref\PaymentProcessing.dll

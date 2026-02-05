@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\bin\Debug\net10.0\Abstract_class_abstract_method.exe
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\bin\Debug\net10.0\Abstract_class_abstract_method.deps.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\bin\Debug\net10.0\Abstract_class_abstract_method.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\bin\Debug\net10.0\Abstract_class_abstract_method.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\bin\Debug\net10.0\Abstract_class_abstract_method.pdb
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\obj\Debug\net10.0\Abstract_class_abstract_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\obj\Debug\net10.0\Abstract_class_abstract_method.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\obj\Debug\net10.0\Abstract_class_abstract_method.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\obj\Debug\net10.0\Abstract_class_abstract_method.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\obj\Debug\net10.0\Abstract_class_abstract_method.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\obj\Debug\net10.0\Abstract_class_abstract_method.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\obj\Debug\net10.0\refint\Abstract_class_abstract_method.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\obj\Debug\net10.0\Abstract_class_abstract_method.pdb
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\obj\Debug\net10.0\Abstract_class_abstract_method.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\Abstract_class_abstract_method\Abstract_class_abstract_method\obj\Debug\net10.0\ref\Abstract_class_abstract_method.dll

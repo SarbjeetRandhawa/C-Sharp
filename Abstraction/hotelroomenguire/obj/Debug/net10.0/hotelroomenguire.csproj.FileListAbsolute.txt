@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\bin\Debug\net10.0\hotelroomenguire.exe
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\bin\Debug\net10.0\hotelroomenguire.deps.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\bin\Debug\net10.0\hotelroomenguire.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\bin\Debug\net10.0\hotelroomenguire.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\bin\Debug\net10.0\hotelroomenguire.pdb
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\obj\Debug\net10.0\hotelroomenguire.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\obj\Debug\net10.0\hotelroomenguire.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\obj\Debug\net10.0\hotelroomenguire.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\obj\Debug\net10.0\hotelroomenguire.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\obj\Debug\net10.0\hotelroomenguire.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\obj\Debug\net10.0\hotelroomenguire.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\obj\Debug\net10.0\refint\hotelroomenguire.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\obj\Debug\net10.0\hotelroomenguire.pdb
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\obj\Debug\net10.0\hotelroomenguire.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\hotelroomenguire\obj\Debug\net10.0\ref\hotelroomenguire.dll

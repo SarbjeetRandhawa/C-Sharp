@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\bin\Debug\net10.0\Datafetcher.exe
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\bin\Debug\net10.0\Datafetcher.deps.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\bin\Debug\net10.0\Datafetcher.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\bin\Debug\net10.0\Datafetcher.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\bin\Debug\net10.0\Datafetcher.pdb
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\obj\Debug\net10.0\Datafetcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\obj\Debug\net10.0\Datafetcher.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\obj\Debug\net10.0\Datafetcher.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\obj\Debug\net10.0\Datafetcher.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\obj\Debug\net10.0\Datafetcher.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\obj\Debug\net10.0\Datafetcher.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\obj\Debug\net10.0\refint\Datafetcher.dll
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\obj\Debug\net10.0\Datafetcher.pdb
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\obj\Debug\net10.0\Datafetcher.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Abstraction\Datafetcher\obj\Debug\net10.0\ref\Datafetcher.dll
