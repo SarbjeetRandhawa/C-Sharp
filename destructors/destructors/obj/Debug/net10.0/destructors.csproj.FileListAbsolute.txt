@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\bin\Debug\net10.0\destructors.exe
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\bin\Debug\net10.0\destructors.deps.json
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\bin\Debug\net10.0\destructors.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\bin\Debug\net10.0\destructors.dll
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\bin\Debug\net10.0\destructors.pdb
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\obj\Debug\net10.0\destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\obj\Debug\net10.0\destructors.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\obj\Debug\net10.0\destructors.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\obj\Debug\net10.0\destructors.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\obj\Debug\net10.0\destructors.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\obj\Debug\net10.0\destructors.dll
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\obj\Debug\net10.0\refint\destructors.dll
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\obj\Debug\net10.0\destructors.pdb
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\obj\Debug\net10.0\destructors.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\destructors\destructors\obj\Debug\net10.0\ref\destructors.dll

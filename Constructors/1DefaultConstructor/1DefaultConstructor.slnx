@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="../Copyconstructor/3Copyconstructor.csproj" />
-  <Project Path="../ParameterConstructor/2ParameterConstructor.csproj" />
-  <Project Path="../PrivateConstructor/PrivateConstructor.csproj" />
-  <Project Path="../staticConstructor/staticConstructor.csproj" />
-  <Project Path="1DefaultConstructor.csproj" />
-</Solution>
