@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\bin\Debug\net10.0\1DefaultConstructor.exe
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\bin\Debug\net10.0\1DefaultConstructor.deps.json
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\bin\Debug\net10.0\1DefaultConstructor.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\bin\Debug\net10.0\1DefaultConstructor.dll
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\bin\Debug\net10.0\1DefaultConstructor.pdb
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\obj\Debug\net10.0\1DefaultConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\obj\Debug\net10.0\1DefaultConstructor.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\obj\Debug\net10.0\1DefaultConstructor.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\obj\Debug\net10.0\1DefaultConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\obj\Debug\net10.0\1DefaultConstructor.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\obj\Debug\net10.0\1DefaultConstructor.dll
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\obj\Debug\net10.0\refint\1DefaultConstructor.dll
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\obj\Debug\net10.0\1DefaultConstructor.pdb
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\obj\Debug\net10.0\1DefaultConstructor.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Constructors\1DefaultConstructor\obj\Debug\net10.0\ref\1DefaultConstructor.dll

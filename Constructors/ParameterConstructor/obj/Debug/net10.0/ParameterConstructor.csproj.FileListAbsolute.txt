@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\bin\Debug\net10.0\ParameterConstructor.exe
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\bin\Debug\net10.0\ParameterConstructor.deps.json
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\bin\Debug\net10.0\ParameterConstructor.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\bin\Debug\net10.0\ParameterConstructor.dll
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\bin\Debug\net10.0\ParameterConstructor.pdb
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\obj\Debug\net10.0\ParameterConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\obj\Debug\net10.0\ParameterConstructor.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\obj\Debug\net10.0\ParameterConstructor.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\obj\Debug\net10.0\ParameterConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\obj\Debug\net10.0\ParameterConstructor.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\obj\Debug\net10.0\ParameterConstructor.dll
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\obj\Debug\net10.0\refint\ParameterConstructor.dll
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\obj\Debug\net10.0\ParameterConstructor.pdb
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\obj\Debug\net10.0\ParameterConstructor.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Constructors\ParameterConstructor\obj\Debug\net10.0\ref\ParameterConstructor.dll
