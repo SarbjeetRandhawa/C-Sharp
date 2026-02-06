@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../operator-overloading/operator-overloading.csproj" />
+  <Project Path="../practice1/practice1.csproj" />
+  <Project Path="../runtime-polymorphism/runtime-polymorphism.csproj" />
+  <Project Path="compile-time-Polymorphism.csproj" />
+</Solution>

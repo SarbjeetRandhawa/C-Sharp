@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sarbj\\source\\repos\\c#\\Polymorphism\\compile-time-Polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5173DC73-1C16-4024-9045-30324012D862}|..\\practice1\\practice1.csproj|c:\\users\\sarbj\\source\\repos\\c#\\polymorphism\\practice1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{509B3767-6132-4BE3-88DB-C6C7E816FB3F}|..\\operator-overloading\\operator-overloading.csproj|c:\\users\\sarbj\\source\\repos\\c#\\polymorphism\\operator-overloading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4B25FA3-613D-41A1-805C-12F6B1FEEF93}|..\\runtime-polymorphism\\runtime-polymorphism.csproj|c:\\users\\sarbj\\source\\repos\\c#\\polymorphism\\runtime-polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D8ED8D-82A7-4170-A7E1-2C95C34EB407}|compile-time-Polymorphism.csproj|c:\\users\\sarbj\\source\\repos\\c#\\polymorphism\\compile-time-polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D8ED8D-82A7-4170-A7E1-2C95C34EB407}|compile-time-Polymorphism.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarbj\\source\\repos\\c#\\Polymorphism\\practice1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\practice1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarbj\\source\\repos\\c#\\Polymorphism\\practice1\\Program.cs*",
+              "RelativeToolTip": "..\\practice1\\Program.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T06:20:49.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarbj\\source\\repos\\c#\\Polymorphism\\operator-overloading\\Program.cs",
+              "RelativeDocumentMoniker": "..\\operator-overloading\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarbj\\source\\repos\\c#\\Polymorphism\\operator-overloading\\Program.cs",
+              "RelativeToolTip": "..\\operator-overloading\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAhwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T05:24:40.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarbj\\source\\repos\\c#\\Polymorphism\\runtime-polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "..\\runtime-polymorphism\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarbj\\source\\repos\\c#\\Polymorphism\\runtime-polymorphism\\Program.cs",
+              "RelativeToolTip": "..\\runtime-polymorphism\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAEwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T04:56:58.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarbj\\source\\repos\\c#\\Polymorphism\\compile-time-Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sarbj\\source\\repos\\c#\\Polymorphism\\compile-time-Polymorphism\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T04:55:30.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

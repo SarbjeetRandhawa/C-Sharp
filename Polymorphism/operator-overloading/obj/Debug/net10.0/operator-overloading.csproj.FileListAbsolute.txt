@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\bin\Debug\net10.0\operator-overloading.exe
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\bin\Debug\net10.0\operator-overloading.deps.json
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\bin\Debug\net10.0\operator-overloading.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\bin\Debug\net10.0\operator-overloading.dll
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\bin\Debug\net10.0\operator-overloading.pdb
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\obj\Debug\net10.0\operator-overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\obj\Debug\net10.0\operator-overloading.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\obj\Debug\net10.0\operator-overloading.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\obj\Debug\net10.0\operator-overloading.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\obj\Debug\net10.0\operator-overloading.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\obj\Debug\net10.0\operator-overloading.dll
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\obj\Debug\net10.0\refint\operator-overloading.dll
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\obj\Debug\net10.0\operator-overloading.pdb
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\obj\Debug\net10.0\operator-overloading.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Polymorphism\operator-overloading\obj\Debug\net10.0\ref\operator-overloading.dll
