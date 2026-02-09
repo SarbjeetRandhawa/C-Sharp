@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="../Enum-methods/Enum-methods.csproj" />
+  <Project Path="../Enum3/Enum3.csproj" Id="e01c5120-55bf-4276-ad5d-d6534debae2f" />
+  <Project Path="../Enums2/Enums2.csproj" Id="e1c71dba-e950-4644-ae53-483364cc247f" />
   <Project Path="Enums.csproj" />
 </Solution>

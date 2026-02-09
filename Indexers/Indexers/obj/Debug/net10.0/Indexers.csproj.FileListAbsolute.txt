@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\bin\Debug\net10.0\Indexers.exe
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\bin\Debug\net10.0\Indexers.deps.json
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\bin\Debug\net10.0\Indexers.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\bin\Debug\net10.0\Indexers.dll
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\bin\Debug\net10.0\Indexers.pdb
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\obj\Debug\net10.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\obj\Debug\net10.0\Indexers.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\obj\Debug\net10.0\Indexers.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\obj\Debug\net10.0\Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\obj\Debug\net10.0\Indexers.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\obj\Debug\net10.0\Indexers.dll
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\obj\Debug\net10.0\refint\Indexers.dll
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\obj\Debug\net10.0\Indexers.pdb
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\obj\Debug\net10.0\Indexers.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Indexers\Indexers\obj\Debug\net10.0\ref\Indexers.dll

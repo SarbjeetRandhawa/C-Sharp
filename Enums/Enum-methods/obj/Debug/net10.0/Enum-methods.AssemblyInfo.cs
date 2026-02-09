@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Enum-methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b583e6f931d5ad461a9b258b7a6bee8fcf95d453")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+125ef4c579caed9f11c36886d9923565cd2a0e0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Enum-methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Enum-methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

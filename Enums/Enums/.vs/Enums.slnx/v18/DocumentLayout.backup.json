@@ -3,11 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\Sarbj\\source\\repos\\c#\\Enums\\Enums\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2DD33D40-0E57-47E5-9CC7-22B0D7083F19}|..\\Enum-methods\\Enum-methods.csproj|c:\\users\\sarbj\\source\\repos\\c#\\enums\\enum-methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E01C5120-55BF-4276-AD5D-D6534DEBAE2F}|..\\Enum3\\Enum3.csproj|c:\\users\\sarbj\\source\\repos\\c#\\enums\\enum3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1BC9EDF4-52E2-470D-A3AE-A2BCDB2EEB8F}|Enums.csproj|c:\\users\\sarbj\\source\\repos\\c#\\enums\\enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BC9EDF4-52E2-470D-A3AE-A2BCDB2EEB8F}|Enums.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1C71DBA-E950-4644-AE53-483364CC247F}|..\\Enums2\\Enums2.csproj|c:\\users\\sarbj\\source\\repos\\c#\\enums\\enums2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9C43F1D-C725-795D-C980-20816A0D2C43}|..\\Enum-methods\\Enum-methods.csproj|c:\\users\\sarbj\\source\\repos\\c#\\enums\\enum-methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA0B04F1-9BCF-2DC0-DDEE-A5632BBBCA5F}|Enums.csproj|c:\\users\\sarbj\\source\\repos\\c#\\enums\\enums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA0B04F1-9BCF-2DC0-DDEE-A5632BBBCA5F}|Enums.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,18 +37,44 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarbj\\source\\repos\\c#\\Enums\\Enum3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Enum3\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarbj\\source\\repos\\c#\\Enums\\Enum3\\Program.cs*",
+              "RelativeToolTip": "..\\Enum3\\Program.cs*",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T10:33:06.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarbj\\source\\repos\\c#\\Enums\\Enums2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Enums2\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarbj\\source\\repos\\c#\\Enums\\Enums2\\Program.cs",
+              "RelativeToolTip": "..\\Enums2\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T10:25:28.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sarbj\\source\\repos\\c#\\Enums\\Enum-methods\\Program.cs",
               "RelativeDocumentMoniker": "..\\Enum-methods\\Program.cs",
               "ToolTip": "C:\\Users\\Sarbj\\source\\repos\\c#\\Enums\\Enum-methods\\Program.cs",
               "RelativeToolTip": "..\\Enum-methods\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-09T05:53:30.147Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sarbj\\source\\repos\\c#\\Enums\\Enums\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -50,8 +82,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAowDIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-09T05:25:43.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-09T05:25:43.652Z"
             }
           ]
         }
