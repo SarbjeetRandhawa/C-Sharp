@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Enum-methods/Enum-methods.csproj" />
+  <Project Path="Enums.csproj" />
+</Solution>

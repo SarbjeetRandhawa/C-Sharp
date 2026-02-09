@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\bin\Debug\net10.0\Enum-methods.exe
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\bin\Debug\net10.0\Enum-methods.deps.json
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\bin\Debug\net10.0\Enum-methods.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\bin\Debug\net10.0\Enum-methods.dll
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\bin\Debug\net10.0\Enum-methods.pdb
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\obj\Debug\net10.0\Enum-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\obj\Debug\net10.0\Enum-methods.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\obj\Debug\net10.0\Enum-methods.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\obj\Debug\net10.0\Enum-methods.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\obj\Debug\net10.0\Enum-methods.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\obj\Debug\net10.0\Enum-methods.dll
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\obj\Debug\net10.0\refint\Enum-methods.dll
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\obj\Debug\net10.0\Enum-methods.pdb
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\obj\Debug\net10.0\Enum-methods.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Enums\Enum-methods\obj\Debug\net10.0\ref\Enum-methods.dll
