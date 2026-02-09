@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\obj\Debug\net10.0\Properties-struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\obj\Debug\net10.0\Properties-struct.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\obj\Debug\net10.0\Properties-struct.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\obj\Debug\net10.0\Properties-struct.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\obj\Debug\net10.0\Properties-struct.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\bin\Debug\net10.0\Properties-struct.exe
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\bin\Debug\net10.0\Properties-struct.deps.json
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\bin\Debug\net10.0\Properties-struct.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\bin\Debug\net10.0\Properties-struct.dll
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\bin\Debug\net10.0\Properties-struct.pdb
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\obj\Debug\net10.0\Properties-struct.dll
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\obj\Debug\net10.0\refint\Properties-struct.dll
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\obj\Debug\net10.0\Properties-struct.pdb
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\obj\Debug\net10.0\Properties-struct.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Struct\Properties-struct\obj\Debug\net10.0\ref\Properties-struct.dll
