@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\bin\Debug\net10.0\REF.exe
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\bin\Debug\net10.0\REF.deps.json
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\bin\Debug\net10.0\REF.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\bin\Debug\net10.0\REF.dll
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\bin\Debug\net10.0\REF.pdb
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\obj\Debug\net10.0\REF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\obj\Debug\net10.0\REF.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\obj\Debug\net10.0\REF.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\obj\Debug\net10.0\REF.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\obj\Debug\net10.0\REF.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\obj\Debug\net10.0\REF.dll
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\obj\Debug\net10.0\refint\REF.dll
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\obj\Debug\net10.0\REF.pdb
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\obj\Debug\net10.0\REF.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Ref vs Out\REF\obj\Debug\net10.0\ref\REF.dll

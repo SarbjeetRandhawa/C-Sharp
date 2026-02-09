@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../In/In.csproj" />
+  <Project Path="../Out/Out.csproj" />
+  <Project Path="REF.csproj" />
+</Solution>
