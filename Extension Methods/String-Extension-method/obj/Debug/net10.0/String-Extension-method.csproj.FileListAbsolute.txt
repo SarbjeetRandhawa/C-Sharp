@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\bin\Debug\net10.0\String-Extension-method.exe
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\bin\Debug\net10.0\String-Extension-method.deps.json
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\bin\Debug\net10.0\String-Extension-method.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\bin\Debug\net10.0\String-Extension-method.dll
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\bin\Debug\net10.0\String-Extension-method.pdb
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\obj\Debug\net10.0\String-Extension-method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\obj\Debug\net10.0\String-Extension-method.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\obj\Debug\net10.0\String-Extension-method.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\obj\Debug\net10.0\String-Extension-method.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\obj\Debug\net10.0\String-Extension-method.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\obj\Debug\net10.0\String-Extension-method.dll
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\obj\Debug\net10.0\refint\String-Extension-method.dll
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\obj\Debug\net10.0\String-Extension-method.pdb
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\obj\Debug\net10.0\String-Extension-method.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Extension Methods\String-Extension-method\obj\Debug\net10.0\ref\String-Extension-method.dll

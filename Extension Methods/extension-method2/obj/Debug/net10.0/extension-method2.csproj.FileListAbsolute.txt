@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\bin\Debug\net10.0\extension-method2.exe
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\bin\Debug\net10.0\extension-method2.deps.json
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\bin\Debug\net10.0\extension-method2.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\bin\Debug\net10.0\extension-method2.dll
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\bin\Debug\net10.0\extension-method2.pdb
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\obj\Debug\net10.0\extension-method2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\obj\Debug\net10.0\extension-method2.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\obj\Debug\net10.0\extension-method2.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\obj\Debug\net10.0\extension-method2.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\obj\Debug\net10.0\extension-method2.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\obj\Debug\net10.0\extension-method2.dll
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\obj\Debug\net10.0\refint\extension-method2.dll
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\obj\Debug\net10.0\extension-method2.pdb
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\obj\Debug\net10.0\extension-method2.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Extension Methods\extension-method2\obj\Debug\net10.0\ref\extension-method2.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parameter-construct-Struct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61d6fa1945ed549ec8f423f938b2e421c72fc89d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c5b85e2e35ce6bfd9587b53fa33ff8689189e41a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parameter-construct-Struct")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parameter-construct-Struct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

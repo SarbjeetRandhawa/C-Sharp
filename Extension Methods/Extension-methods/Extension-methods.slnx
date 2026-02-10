@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../extension-method2/extension-method2.csproj" />
+  <Project Path="../String-Extension-method/String-Extension-method.csproj" />
+  <Project Path="Extension-methods.csproj" />
+</Solution>

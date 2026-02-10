@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Sealed-methods/Sealed - class.csproj" />
+  <Project Path="Sealed-Methods.csproj" />
+</Solution>
