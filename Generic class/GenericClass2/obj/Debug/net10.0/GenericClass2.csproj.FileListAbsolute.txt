@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\bin\Debug\net10.0\GenericClass2.exe
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\bin\Debug\net10.0\GenericClass2.deps.json
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\bin\Debug\net10.0\GenericClass2.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\bin\Debug\net10.0\GenericClass2.dll
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\bin\Debug\net10.0\GenericClass2.pdb
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\obj\Debug\net10.0\GenericClass2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\obj\Debug\net10.0\GenericClass2.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\obj\Debug\net10.0\GenericClass2.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\obj\Debug\net10.0\GenericClass2.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\obj\Debug\net10.0\GenericClass2.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\obj\Debug\net10.0\GenericClass2.dll
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\obj\Debug\net10.0\refint\GenericClass2.dll
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\obj\Debug\net10.0\GenericClass2.pdb
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\obj\Debug\net10.0\GenericClass2.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Generic class\GenericClass2\obj\Debug\net10.0\ref\GenericClass2.dll

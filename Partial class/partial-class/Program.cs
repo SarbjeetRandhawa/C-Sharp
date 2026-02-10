@@ -1,7 +1,7 @@
 ﻿using System;
-namespace PartialClass
+namespace PartialClass1
 {
-    partial class  Partialclass
+    partial class  Partialclass1
     {
         public string Name { get; set; }
         public int salary { get; set; }
@@ -12,7 +12,7 @@ namespace PartialClass
     {
         public static void Main()
         {
-            Partialclass p = new()
+            Partialclass1 p = new()
             {
                 Name = "Sarb",
                 salary = 1000

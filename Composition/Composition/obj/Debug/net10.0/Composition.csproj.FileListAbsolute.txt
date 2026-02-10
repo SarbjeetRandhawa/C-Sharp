@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\bin\Debug\net10.0\Composition.exe
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\bin\Debug\net10.0\Composition.deps.json
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\bin\Debug\net10.0\Composition.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\bin\Debug\net10.0\Composition.dll
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\bin\Debug\net10.0\Composition.pdb
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\obj\Debug\net10.0\Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\obj\Debug\net10.0\Composition.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\obj\Debug\net10.0\Composition.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\obj\Debug\net10.0\Composition.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\obj\Debug\net10.0\Composition.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\obj\Debug\net10.0\Composition.dll
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\obj\Debug\net10.0\refint\Composition.dll
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\obj\Debug\net10.0\Composition.pdb
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\obj\Debug\net10.0\Composition.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Composition\Composition\obj\Debug\net10.0\ref\Composition.dll

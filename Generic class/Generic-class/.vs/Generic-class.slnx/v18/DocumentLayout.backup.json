@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Sarbj\\source\\repos\\c#\\Generic class\\Generic-class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8C01E7D-5F11-4B6A-85C0-B0EBB56FCFE1}|Generic-class.csproj|c:\\users\\sarbj\\source\\repos\\c#\\generic class\\generic-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A8C01E7D-5F11-4B6A-85C0-B0EBB56FCFE1}|Generic-class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{05BCDF77-DCC5-4466-A7AC-F0D6043D2A15}|..\\GenericClass2\\GenericClass2.csproj|c:\\users\\sarbj\\source\\repos\\c#\\generic class\\genericclass2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD19E96-2AF9-D416-52F9-C247522A4A9D}|Generic-class.csproj|c:\\users\\sarbj\\source\\repos\\c#\\generic class\\generic-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD19E96-2AF9-D416-52F9-C247522A4A9D}|Generic-class.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +31,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sarbj\\source\\repos\\c#\\Generic class\\GenericClass2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\GenericClass2\\Program.cs",
+              "ToolTip": "C:\\Users\\Sarbj\\source\\repos\\c#\\Generic class\\GenericClass2\\Program.cs",
+              "RelativeToolTip": "..\\GenericClass2\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T11:49:28.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sarbj\\source\\repos\\c#\\Generic class\\Generic-class\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Sarbj\\source\\repos\\c#\\Generic class\\Generic-class\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAADEAAAAAAAAAAAAowEAAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Sarbj\\source\\repos\\c#\\Generic class\\Generic-class\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADYAAAAAuN2WcW8AwEcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-10T07:05:09.825Z",
               "EditorCaption": ""

@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace PartialClass
+namespace PartialClass1
 {
-    public partial class Partialclass
+    public partial class Partialclass1
     {
         public void display()
         {
