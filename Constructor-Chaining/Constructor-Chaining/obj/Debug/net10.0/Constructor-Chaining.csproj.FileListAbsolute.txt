@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\bin\Debug\net10.0\Constructor-Chaining.exe
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\bin\Debug\net10.0\Constructor-Chaining.deps.json
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\bin\Debug\net10.0\Constructor-Chaining.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\bin\Debug\net10.0\Constructor-Chaining.dll
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\bin\Debug\net10.0\Constructor-Chaining.pdb
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\obj\Debug\net10.0\Constructor-Chaining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\obj\Debug\net10.0\Constructor-Chaining.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\obj\Debug\net10.0\Constructor-Chaining.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\obj\Debug\net10.0\Constructor-Chaining.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\obj\Debug\net10.0\Constructor-Chaining.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\obj\Debug\net10.0\Constructor-Chaining.dll
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\obj\Debug\net10.0\refint\Constructor-Chaining.dll
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\obj\Debug\net10.0\Constructor-Chaining.pdb
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\obj\Debug\net10.0\Constructor-Chaining.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Constructor-Chaining\Constructor-Chaining\obj\Debug\net10.0\ref\Constructor-Chaining.dll
