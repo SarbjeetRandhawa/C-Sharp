@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../2DArray/2DArray.csproj" />
+  <Project Path="Arrayy.csproj" />
+</Solution>
