@@ -1,0 +1,15 @@
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\bin\Debug\net10.0\CustomException.exe
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\bin\Debug\net10.0\CustomException.deps.json
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\bin\Debug\net10.0\CustomException.runtimeconfig.json
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\bin\Debug\net10.0\CustomException.dll
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\bin\Debug\net10.0\CustomException.pdb
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\obj\Debug\net10.0\CustomException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\obj\Debug\net10.0\CustomException.AssemblyInfoInputs.cache
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\obj\Debug\net10.0\CustomException.AssemblyInfo.cs
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\obj\Debug\net10.0\CustomException.csproj.CoreCompileInputs.cache
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\obj\Debug\net10.0\CustomException.sourcelink.json
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\obj\Debug\net10.0\CustomException.dll
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\obj\Debug\net10.0\refint\CustomException.dll
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\obj\Debug\net10.0\CustomException.pdb
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\obj\Debug\net10.0\CustomException.genruntimeconfig.cache
+C:\Users\Sarbj\source\repos\c#\Exception Handling\CustomException\obj\Debug\net10.0\ref\CustomException.dll
