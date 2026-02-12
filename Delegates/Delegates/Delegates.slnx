@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../Builin-delegates/Builin-delegates.csproj" />
+  <Project Path="../Delegates Properties/Delegates Properties.csproj" />
+  <Project Path="../MultiCast-Delegates/MultiCast-Delegates.csproj" />
+  <Project Path="Delegates.csproj" />
+</Solution>
