@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../IQuerable/IQuerable.csproj" />
+  <Project Path="IEneumerable.csproj" />
+</Solution>
