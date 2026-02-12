@@ -1,5 +1,5 @@
 ﻿using System;
-namespace delegatess
+namespace delegatess2
 {
     public delegate void d1(string s);
     public class Program
