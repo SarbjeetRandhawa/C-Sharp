@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Sarbj\\source\\repos\\c#\\Constructor-Chaining\\Constructor-Chaining\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8908A995-CC46-4950-B996-9AC89B682980}|Constructor-Chaining.csproj|c:\\users\\sarbj\\source\\repos\\c#\\constructor-chaining\\constructor-chaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8908A995-CC46-4950-B996-9AC89B682980}|Constructor-Chaining.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85CA60A1-4962-05CA-8F9F-24CB6DFB2D86}|Constructor-Chaining.csproj|c:\\users\\sarbj\\source\\repos\\c#\\constructor-chaining\\constructor-chaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85CA60A1-4962-05CA-8F9F-24CB6DFB2D86}|Constructor-Chaining.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +36,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T12:33:55.707Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
