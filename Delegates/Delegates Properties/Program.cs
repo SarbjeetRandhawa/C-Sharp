@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Reflection;
-namespace Delegatess1
+namespace Delegatess
 {
     public delegate void d1(string s);
 
